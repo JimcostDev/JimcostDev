@@ -6,9 +6,9 @@
  
 
 ## PERFIL :necktie:
-Tengo 2 años de experiencia laborando en el área TI. Desde 2018 vengo trabajando como auxiliar en soporte técnico en instituciones educativas y actualmente me estoy formando como desarrollador de software. 
-Prototipado y maquetación web en Adobe Xd, próximamente Figma.
-Realización de mantenimiento de equipos de cómputo (lógico y físico) . Instalación y configuración de software para desarrollo de sistemas informáticos (NetBeans, SQLExpress, Visual Studio, Arduino, git, postman, etc.) y aplicaciones para diseño gráfico (pack adobe). Backups y métodos de recuperación de información.
+Tengo 2 años de experiencia laborando en el área TI. Desde 2018 vengo trabajando como auxiliar en soporte técnico en instituciones educativas y actualmente me estoy formando como desarrollador de software. Realización de mantenimiento de equipos de cómputo (lógico y físico) . Instalación y configuración de software para desarrollo de sistemas informáticos (NetBeans, SQLExpress, Visual Studio, Arduino, git, postman, etc.) y aplicaciones para diseño gráfico (pack adobe). Backups y métodos de recuperación de información. En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd, próximamente Figma.
+
+
 
 ## HABILIDADES :computer:
 ```javascript
