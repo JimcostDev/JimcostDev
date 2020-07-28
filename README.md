@@ -1,4 +1,4 @@
-![logo-github](https://user-images.githubusercontent.com/53100460/88736394-479d8e80-d0fe-11ea-9210-fa1c8c9823a5.png)
+![logo-github](https://user-images.githubusercontent.com/53100460/88737085-7e73a480-d0fe-11ea-88de-5f60e76f717c.png)
 
 # Hola, un saludo a todos. Gracias por visitar mi perfil de GitHub :octocat:
  
