@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**JimcostDev/JimcostDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
+![David Santafe](https://raw.githubusercontent.com/dsantafe/dsantafe/master/my-web-resources/logo-2020/black/Logo.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, un saludo a todos. Gracias por visitar mi perfil de GitHub :octocat:
+ 
+
+## PERFIL :necktie:
+Tengo 2 años de experiencia laborando en el área TI. Desde 2018 vengo trabajando como auxiliar en soporte técnico en instituciones educativas y actualmente me estoy formando como desarrollador de software. 
+Prototipado y maquetación web en Adobe Xd, próximamente Figma.
+Realización de mantenimiento de equipos de cómputo (lógico y físico) . Instalación y configuración de software para desarrollo de sistemas informáticos (NetBeans, SQLExpress, Visual Studio, Arduino, git, postman, etc.) y aplicaciones para diseño gráfico (pack adobe). Backups y métodos de recuperación de información.
+
+## HABILIDADES :computer:
+```javascript
+const JimcostDev = {
+  slogan: 'Strive and be brave',
+  code: [HTML, CSS, C#, Python, Java, Javascript],
+  tools: [Adobe Xd, Bootstrap, .Net, Git, GitHub, Sql-Server, EntityFramework]
+}
+```
+
