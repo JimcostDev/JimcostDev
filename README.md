@@ -1,5 +1,4 @@
-![logo-github](https://user-images.githubusercontent.com/53100460/88729987-acef8080-d0fa-11ea-8023-2eeff3bba5c3.png)
-
+https://github.com/JimcostDev/JimcostDev/issues/1#issue-667423870
 # Hola, un saludo a todos. Gracias por visitar mi perfil de GitHub :octocat:
  
 
