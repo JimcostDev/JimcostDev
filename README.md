@@ -14,7 +14,7 @@ Realización de mantenimiento de equipos de cómputo (lógico y físico) . Insta
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [HTML, CSS, C#, Python, Java, Javascript],
+  code: [HTML, CSS, C#, Python, Java],
   tools: [Adobe Xd, Bootstrap, .Net, Git, GitHub, Sql-Server, EntityFramework]
 }
 ```
