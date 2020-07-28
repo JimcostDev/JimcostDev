@@ -1,7 +1,6 @@
 
 
 ###
-![David Santafe](https://raw.githubusercontent.com/dsantafe/dsantafe/master/my-web-resources/logo-2020/black/Logo.png?raw=true)
 
 # Hola, un saludo a todos. Gracias por visitar mi perfil de GitHub :octocat:
  
