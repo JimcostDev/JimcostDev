@@ -5,7 +5,7 @@
 
 ## PERFIL :necktie:
 Tengo 2 años de experiencia laborando en el área TI. Desde 2018 vengo trabajando como auxiliar en soporte técnico en instituciones educativas y actualmente me estoy formando como desarrollador de software. Como técnico en sistemas realizó mantenimiento a equipos de cómputo (lógico y físico) . Instalación y configuración de software para desarrollo de sistemas informáticos (NetBeans, SQLExpress, Visual Studio, Arduino, git, postman, etc.) y aplicaciones para diseño gráfico (pack adobe). Backups y métodos de recuperación de información. En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd, próximamente Figma.
-Como estudiante de informática trabajó con; Java, C# y .Net.
+Como estudiante de informática trabajó con las siguientes tecnologías: Java, C# y .Net y SQL Server.
 
 
 
