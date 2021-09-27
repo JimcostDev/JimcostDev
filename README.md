@@ -4,8 +4,8 @@
  
 
 ## PERFIL :necktie:
-Tengo 2 años de experiencia laborando en el área TI. Desde 2018 vengo trabajando como auxiliar en soporte técnico en instituciones educativas y actualmente me estoy formando como desarrollador de software. Soy técnico en sistemas , realizó mantenimiento a equipos de cómputo (lógico y físico) . Instalación y configuración de software para desarrollo de sistemas informáticos (NetBeans, SQLExpress, Visual Studio, Arduino, git, postman, etc.) y aplicaciones para diseño gráfico (pack adobe). Backups y métodos de recuperación de información. En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd y Figma.
-Como estudiante de informática trabajó con las siguientes tecnologías: Git, Python, C#, SQL Server y .Net
+Tengo 3 años de experiencia laborando en el área TI. Desde 2018 he trabajado como auxiliar en soporte técnico en instituciones educativas y actualmente laboro como analista de desarrollo  en una institución universitaria. Brindado soporte y mantenimiento a aplicaciones de escritorio y web (.Net, SQL Server y C#).
+En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd y Figma.
 
 
 
@@ -13,8 +13,8 @@ Como estudiante de informática trabajó con las siguientes tecnologías: Git, P
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [HTML, CSS, C#, Python],
-  tools: [Adobe Xd, Bootstrap, .Net, Git, GitHub, Sql-Server, EntityFramework]
+  code: [HTML,T-SQL, C#, Python],
+  tools: [Figma, Bootstrap, .Net, GitHub, Sql-Server]
 }
 ```
 
