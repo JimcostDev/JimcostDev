@@ -7,6 +7,8 @@
 Tengo 3 años de experiencia laborando en el área TI. Desde 2018 he trabajado como auxiliar en soporte técnico en instituciones educativas y actualmente laboro como analista de desarrollo  en una institución universitaria. Brindado soporte y mantenimiento a aplicaciones de escritorio y web (.Net, SQL Server y C#).
 En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd y Figma.
 
+* Web 🖥: www,jimcostdev.com 
+
 
 
 ## HABILIDADES :computer:
