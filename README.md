@@ -4,19 +4,31 @@
  
 
 ## PERFIL :necktie:
-Tengo 3 años de experiencia laborando en el área TI. Desde 2018 he trabajado como auxiliar en soporte técnico en instituciones educativas y actualmente laboro como analista de desarrollo  en una institución universitaria. Brindado soporte y mantenimiento a aplicaciones de escritorio y web (.Net, SQL Server y C#).
-En el desarrollo web he trabajado en el prototipado y maquetación web con Adobe Xd y Figma.
+Tecnólogo en informática con más de 3 años de experiencia
+realizando las siguientes funciones: ensamble y mantenimiento de
+computadores, soporte técnico, administración de Google
+workspace y Office 365, prototipado web con Figma y analista de
+desarrollo.
 
-* Web 🌍: <a href="http://www.jimcostdev.com/" target="_blank"> JimcostDev </a>
+Soy una persona amable, respetuosa, puntual y comprometida con
+su trabajo. Me gusta tanto el trabajo en equipo como individual.
+Algo que disfruto mucho es la lectura y compartir aquello que voy
+conociendo por lo que la docencia me llama la atención.
 
+* **Gestores de base de datos:**  Microsoft SQL Server
+* **Herramientas de programación:** C#, T-SQL, Net Core, Entity
+framework , Java y Git
+* **Otras herramientas:** Figma, Bootstrap
+
+> <a href="http://www.jimcostdev.com/" target="_blank"> JimcostDev </a>
 
 
 ## HABILIDADES :computer:
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [HTML,T-SQL, C#, Python],
-  tools: [Figma, Bootstrap, .Net, GitHub, Sql-Server]
+  code: [T-SQL, C#, Java],
+  tools: [Figma, Bootstrap, GitHub]
 }
 ```
 
