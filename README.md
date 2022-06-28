@@ -16,8 +16,7 @@ Algo que disfruto mucho es la lectura y compartir aquello que voy
 conociendo por lo que la docencia me llama la atención.
 
 * **Gestores de base de datos:**  Microsoft SQL Server
-* **Herramientas de programación:** C#, T-SQL, Net Core, Entity
-framework , Java y Git
+* **Herramientas de programación:** C#, T-SQL, Javascript y Git
 * **Otras herramientas:** Figma, Bootstrap
 
 > <a href="http://www.jimcostdev.com/" target="_blank"> JimcostDev </a>
@@ -27,7 +26,7 @@ framework , Java y Git
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [T-SQL, C#, Java],
+  code: [T-SQL, C#, Javascript],
   tools: [Figma, Bootstrap, GitHub]
 }
 ```
