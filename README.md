@@ -19,8 +19,6 @@ conociendo por lo que la docencia me llama la atención.
 * **Herramientas de programación:** C#, T-SQL, Javascript y Git
 * **Otras herramientas:** Figma, Bootstrap
 
-> <a href="http://www.jimcostdev.com/" target="_blank"> JimcostDev </a>
-
 
 ## HABILIDADES :computer:
 ```javascript
@@ -30,4 +28,15 @@ const JimcostDev = {
   tools: [Figma, Bootstrap, GitHub]
 }
 ```
+
+![me](https://github-readme-stats.vercel.app/api?username=JimcostDev&hide=contribs,prs&theme=material-palenight&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimcostDev&layout=compact&theme=buefy)](https://github.com/LceballosE/github-readme-stats)
+
+
+## CONTACTO :handshake: 
+:star:  Web: https://www.jimcostdev.com/
+
+:star:  LinkedIn: https://www.linkedin.com/in/ronaldo-jimenez/
+
+:star: Microsoft: https://docs.microsoft.com/es-es/users/ronaldo-jimenez/
 
