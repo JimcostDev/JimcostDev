@@ -1,30 +1,27 @@
 ![logo-github](https://user-images.githubusercontent.com/53100460/88737085-7e73a480-d0fe-11ea-88de-5f60e76f717c.png)
 
-# Hola, un saludo a todos. Gracias por visitar mi perfil de GitHub :octocat:
+# Howdy, thanks a bunch for visiting my GitHub profile :octocat:
  
 
-## PERFIL :necktie:
-Tecnólogo en informática con más de 3 años de experiencia
-realizando las siguientes funciones: ensamble y mantenimiento de
-computadores, soporte técnico, administración de Google
-workspace y Office 365, prototipado web con Figma y analista de
-desarrollo.
+## PROFILE :necktie:
 
-Soy una persona amable, respetuosa, puntual y comprometida con
-su trabajo. Me gusta tanto el trabajo en equipo como individual.
-Algo que disfruto mucho es la lectura y compartir aquello que voy
-conociendo por lo que la docencia me llama la atención.
+** Junior .NET Developer **
 
-* **Gestores de base de datos:**  Microsoft SQL Server
-* **Herramientas de programación:** C#, T-SQL, Javascript y Git
-* **Otras herramientas:** Figma, Bootstrap
+I am currently a computer engineering student at UNIR.
++2 years of experience performing the following functions: 
+software development and database maintenance with stack Microsoft. 
+Also I have worked as computer technician.
 
 
-## HABILIDADES :computer:
+In my opinion the best job is the one that allows me to constantly 
+evolve as a person and professional. Something that I really enjoy 
+is reading and sharing what I learn, so in my job I am always looking for new opportunities to learn from others and with others.
+
+## SKILLS :computer:
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [T-SQL, C#, Javascript],
+  code: [C#, Javascript, T-SQL, .NET, Javascript, Azure],
   tools: [Figma, Bootstrap, GitHub]
 }
 ```
@@ -33,7 +30,7 @@ const JimcostDev = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimcostDev&layout=compact&theme=buefy)](https://github.com/LceballosE/github-readme-stats)
 
 
-## CONTACTO :handshake: 
+## CONTACT :handshake: 
 :star:  Web: https://www.jimcostdev.com/
 
 :star:  LinkedIn: https://www.linkedin.com/in/ronaldo-jimenez/
