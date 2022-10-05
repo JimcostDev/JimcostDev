@@ -5,10 +5,9 @@
 
 ## PROFILE :necktie:
 
-** Junior .NET Developer **
+I am currently a computer engineering student at **UNIR**.
 
-I am currently a computer engineering student at UNIR.
-+2 years of experience performing the following functions: 
+**+2 years** of experience performing the following functions: 
 software development and database maintenance with stack Microsoft. 
 Also I have worked as computer technician.
 
