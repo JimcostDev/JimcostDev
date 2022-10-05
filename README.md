@@ -20,7 +20,7 @@ is reading and sharing what I learn, so in my job I am always looking for new op
 ```javascript
 const JimcostDev = {
   slogan: 'Strive and be brave',
-  code: [C#, Javascript, T-SQL, .NET, Javascript, Azure],
+  code: [C#, T-SQL, .NET, Javascript, Azure],
   tools: [Figma, Bootstrap, GitHub]
 }
 ```
