@@ -5,16 +5,11 @@
 
 ## PROFILE :necktie:
 
-I am currently a computer engineering student at **UNIR**.
-
 **+2 years** of experience performing the following functions: 
 software development and database maintenance with stack Microsoft. 
 Also I have worked as computer technician.
 
-
-In my opinion the best job is the one that allows me to constantly 
-evolve as a person and professional. Something that I really enjoy 
-is reading and sharing what I learn, so in my job I am always looking for new opportunities to learn from others and with others.
+I am currently a computer engineering student at **UNIR**.
 
 ## SKILLS :computer:
 ```javascript
