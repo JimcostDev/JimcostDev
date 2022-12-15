@@ -12,16 +12,17 @@ Also I have worked as computer technician.
 I am currently a computer engineering student at **UNIR**.
 
 ## SKILLS :computer:
-```javascript
-const JimcostDev = {
-  slogan: 'Strive and be brave',
-  code: [C#, T-SQL, .NET, Javascript, Azure],
-  tools: [Figma, Bootstrap, GitHub]
-}
-```
+[![C#](https://img.shields.io/badge/.NET-5c2992?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
+[![MSSQL](https://img.shields.io/badge/SQL%20Server-df0527?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
+[![Azure](https://img.shields.io/badge/Azure-39ccf4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
+</br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
 
-![me](https://github-readme-stats.vercel.app/api?username=JimcostDev&hide=contribs,prs&theme=material-palenight&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimcostDev&layout=compact&theme=buefy)](https://github.com/LceballosE/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=JimcostDev&hide=contribs,prs&theme=material-palenight&show_icons=true)
+
 
 
 ## CONTACT :handshake: 
