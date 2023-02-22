@@ -5,11 +5,11 @@
 
 ## PROFILE :necktie:
 
-**+2 years** of experience performing the following functions: 
-software development and database maintenance with stack Microsoft. 
-Also I have worked as computer technician.
+I am currently finishing my studies as a professional in computer engineering.
+I have more than **2 years** of experience as a software developer and computer technician for the education industry.
 
-I am currently a computer engineering student at **UNIR**.
+I really enjoy the fact of creating software and at the same time teaching others and learning with them, that part is what I am most passionate about.
+
 
 ## SKILLS :computer:
 [![C#](https://img.shields.io/badge/.NET-5c2992?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
