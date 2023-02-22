@@ -8,7 +8,7 @@
 I am currently finishing my studies as a professional in computer engineering.
 I have more than **2 years** of experience as a software developer and computer technician for the education industry.
 
-I really enjoy the fact of creating software and at the same time teaching others and learning with them, that part is what I am most passionate about.
+Furthermore, I really enjoy the fact of creating software and at the same time teaching others and learning with them, that part is what I am most passionate about.
 
 
 ## SKILLS :computer:
