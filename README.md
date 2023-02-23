@@ -21,9 +21,7 @@ Furthermore, I really enjoy the fact of creating software and at the same time t
 [![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=JimcostDev&hide=contribs,prs&theme=material-palenight&show_icons=true)
-
-
+![stats](https://github-readme-stats.vercel.app/api?username=JimcostDev)
 
 ## CONTACT :handshake: 
 :star:  Web: https://www.jimcostdev.com/
