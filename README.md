@@ -21,13 +21,15 @@ Furthermore, I really enjoy the fact of creating software and at the same time t
 [![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev" alt="jimcostdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev&&theme=github_dark" alt="jimcostdev" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&show_icons=true&locale=en&layout=compact" alt="JimcostDev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="JimcostDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JimcostDev&show_icons=true&locale=en" alt="JimcostDev" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev&theme=github_dark) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev&" alt="JimcostDev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev&theme=github_dark" alt="JimcostDev" /></p>
+
+![](https://komarev.com/ghpvc/?username=JimcostDev)
 
 ## CONTACT :handshake: 
 :star:  Web: https://www.jimcostdev.com/
