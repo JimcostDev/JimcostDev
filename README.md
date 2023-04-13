@@ -20,7 +20,7 @@ Furthermore, I really enjoy the fact of creating software and at the same time t
 </br>
 [![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-![](https://komarev.com/ghpvc/?username=JimcostDev)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev&&theme=github_dark" alt="jimcostdev" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="JimcostDev" /></p>
