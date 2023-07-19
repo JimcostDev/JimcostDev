@@ -7,6 +7,7 @@
 ## PROFILE :necktie: 
 
 **Computer Engineer - Software Developer**
+
 I am a technology enthusiast in the final stage of my computer engineering studies. With over 2 years of experience in software development and technical support in the educational industry, I am ready to take on new challenges. I have collaborated in multidisciplinary teams, creating innovative and scalable technological solutions.
 
 
