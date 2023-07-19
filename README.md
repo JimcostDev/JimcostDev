@@ -1,14 +1,19 @@
-![logo-github](https://user-images.githubusercontent.com/53100460/88737085-7e73a480-d0fe-11ea-88de-5f60e76f717c.png)
+
+![https://www.youtube.com/@ronaldo-jimenez](https://user-images.githubusercontent.com/53100460/254561844-6471bed7-ba32-4d66-b05f-007da9a95620.jpg)
 
 # Howdy, thanks a bunch for visiting my GitHub profile :octocat:
  
 
 ## PROFILE :necktie: 
 
-I am currently finishing my studies as a professional in computer engineering.
-I have more than **2 years** of experience as a software developer and computer technician for the education industry.
+**Computer Engineer - Software Developer**
+I am a technology enthusiast in the final stage of my computer engineering studies. With over 2 years of experience in software development and technical support in the educational industry, I am ready to take on new challenges. I have collaborated in multidisciplinary teams, creating innovative and scalable technological solutions.
 
-Furthermore, I really enjoy the fact of creating software and at the same time teaching others and learning with them, that part is what I am most passionate about.
+
+I possess strong knowledge in web development using C#, Python, and Javascript. Additionally, I have experience in managing databases with Microsoft SQL Server and using version control tools like Git. My ability to teach and willingness to take on mentoring roles have been prominent in my career. I am communicative, collaborative, and resourceful, with a proactive attitude towards continuous learning.
+
+
+Furthermore, it is worth noting that I am certified by Microsoft in Azure Fundamentals. This certification demonstrates my knowledge and understanding of the fundamental concepts of Azure, including core services, architecture, security, and privacy in the Microsoft cloud.
 
 
 ## SKILLS :computer:
