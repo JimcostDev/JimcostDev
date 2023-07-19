@@ -1,5 +1,5 @@
 
-![https://www.youtube.com/@ronaldo-jimenez](https://user-images.githubusercontent.com/53100460/254561844-6471bed7-ba32-4d66-b05f-007da9a95620.jpg)
+[![banner-yt](https://user-images.githubusercontent.com/53100460/254561844-6471bed7-ba32-4d66-b05f-007da9a95620.jpg)](https://www.youtube.com/@ronaldo-jimenez)
 
 # Howdy, thanks a bunch for visiting my GitHub profile :octocat:
  
