@@ -12,7 +12,7 @@ I am a technology enthusiast in the final stage of my computer engineering studi
 <!-- Habilidades y tecnologías -->
 I possess strong knowledge in web development using C#, Python, and Javascript. Additionally, I have experience in managing databases with Microsoft SQL Server and using version control tools like Git. My ability to teach and willingness to take on mentoring roles have been prominent in my career. I am communicative, collaborative, and resourceful, with a proactive attitude towards continuous learning.
 
-Furthermore, it is worth noting that I am certified by Microsoft in Azure Fundamentals. This certification demonstrates my knowledge and understanding of the fundamental concepts of Azure, including core services, architecture, security, and privacy in the Microsoft cloud.
+Furthermore, it is worth noting that I am certified by Microsoft in [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s). This certification demonstrates my knowledge and understanding of the fundamental concepts of Azure, including core services, architecture, security, and privacy in the Microsoft cloud.
 
 ## SKILLS :computer:
 
