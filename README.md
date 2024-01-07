@@ -7,12 +7,7 @@
 <!-- Introducción y descripción personal -->
 **Computer Engineer - Software Developer**
 
-I am a technology enthusiast in the final stage of my computer engineering studies. With over 2 years of experience in software development and technical support in the educational industry, I am ready to take on new challenges. I have collaborated in multidisciplinary teams, creating innovative and scalable technological solutions.
-
-<!-- Habilidades y tecnologías -->
-I possess strong knowledge in web development using C#, Python, and Javascript. Additionally, I have experience in managing databases with Microsoft SQL Server and using version control tools like Git. My ability to teach and willingness to take on mentoring roles have been prominent in my career. I am communicative, collaborative, and resourceful, with a proactive attitude towards continuous learning.
-
-Furthermore, it is worth noting that I am certified by Microsoft in [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s). This certification demonstrates my knowledge and understanding of the fundamental concepts of Azure, including core services, architecture, security, and privacy in the Microsoft cloud.
+I am passionate about technology with more than 2 years of experience in software and web application development. I have strong skills in web development using Python and Javascript, as well as database management, including Microsoft SQL Server and MongoDB. I stand out for my ability to teach and serve as a mentor, which has led me to work as a programming teacher and tutor. Additionally, I am certified in [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) by Microsoft.
 
 ## SKILLS :computer:
 
