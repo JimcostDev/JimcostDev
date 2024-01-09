@@ -4,7 +4,7 @@
 
 ## PROFILE :necktie:
 <!-- Introducción y descripción personal -->
-**Computer Engineer - Software Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=435&lines=I'm+Ronaldo+Jim%C3%A9nez%2C+;Full+Stack+Developer.)](https://git.io/typing-svg)
 
 I am passionate about technology with more than 2 years of experience in software and web application development. I have strong skills in web development using Python and Javascript, as well as database management, including Microsoft SQL Server and MongoDB. I stand out for my ability to teach and serve as a mentor, which has led me to work as a programming teacher and tutor. Additionally, I am certified in [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) by Microsoft.
 
