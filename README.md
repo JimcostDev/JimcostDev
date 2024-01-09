@@ -3,12 +3,12 @@
 # Howdy, thanks a bunch for visiting my GitHub profile :octocat:
 
 ## PROFILE :necktie:
-
 <!-- Introducción y descripción personal -->
 **Computer Engineer - Software Developer**
 
 I am passionate about technology with more than 2 years of experience in software and web application development. I have strong skills in web development using Python and Javascript, as well as database management, including Microsoft SQL Server and MongoDB. I stand out for my ability to teach and serve as a mentor, which has led me to work as a programming teacher and tutor. Additionally, I am certified in [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) by Microsoft.
 
+> "No soy un experto (aún), pero sí un curioso con conocimiento, siempre con ganas de aprender."
 ## SKILLS :computer:
 
 <!-- Escudos de habilidades y tecnologías -->
