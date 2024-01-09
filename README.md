@@ -30,6 +30,7 @@ I am passionate about technology with more than 2 years of experience in softwar
 <!-- stats and streak-stats -->
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev&theme=github_dark" alt="streak-stats">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JimcostDev&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev&theme=github_dark" alt="Stats">
 </div>
 
