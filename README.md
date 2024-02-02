@@ -17,10 +17,10 @@ I am passionate about technology with more than 2 years of experience in softwar
 [![Azure](https://img.shields.io/badge/Azure-39ccf4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-00599C?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=django&logoColor=white&labelColor=101010&color=4CAF50)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-059487?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com/)
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
 
 
