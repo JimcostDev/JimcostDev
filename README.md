@@ -1,8 +1,6 @@
 [![banner-yt](https://user-images.githubusercontent.com/53100460/254561844-6471bed7-ba32-4d66-b05f-007da9a95620.jpg)](https://www.youtube.com/@ronaldo-jimenez)
 
-# Howdy, gracias por visiitar mmi erfil de GitHub :octocat:
-
-## PROFILE :necktie:
+# Howdy, gracias por visitar mi perfil de GitHub :octocat:
 <!-- Introducción y descripción personal -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=435&lines=Hola+👋🏻+soy+Ronaldo+Jim%C3%A9nez%2C+;Software+Developer.)](https://git.io/typing-svg)
 
