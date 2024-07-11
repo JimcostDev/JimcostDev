@@ -13,16 +13,16 @@ Estoy seguro de que puedo ayudarte con mi experiencia y conocimiento, si quieres
 ## SKILLS :computer:
 
 <!-- Escudos de habilidades y tecnologías -->
-[![C#](https://img.shields.io/badge/.NET-5c2992?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
-[![MSSQL](https://img.shields.io/badge/SQL%20Server-df0527?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
-[![Azure](https://img.shields.io/badge/Azure-39ccf4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
-</br>
 [![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-059487?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com/)
-</br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+</br>
+
 
 
 <!-- Trofeos y estadísticas de GitHub -->
@@ -40,13 +40,11 @@ Estoy seguro de que puedo ayudarte con mi experiencia y conocimiento, si quieres
 <!-- profile-views -->
 ![](https://komarev.com/ghpvc/?username=JimcostDev)
 
-## CONTACT :handshake:
+## CONTACTO :handshake:
 
 <!-- Enlaces de contacto -->
 :star:  Web: https://www.jimcostdev.com/
 
 :star:  LinkedIn: https://www.linkedin.com/in/ronaldo-jimenez/
-
-:star: Microsoft: https://docs.microsoft.com/es-es/users/ronaldo-jimenez/
 
 :star: Platzi: https://platzi.com/p/JimcostDev/
