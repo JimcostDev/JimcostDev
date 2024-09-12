@@ -2,7 +2,7 @@
 
 # Howdy, gracias por visitar mi perfil de GitHub :octocat:
 <!-- Introducción y descripción personal -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=435&lines=Hola+👋🏻+soy+Ronaldo+Jim%C3%A9nez%2C+;Software+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=435&lines=Hola+👋🏻+soy+Ronaldo+Jim%C3%A9nez%2C+;Software+Engineer.)](https://git.io/typing-svg)
 
 Ingeniero informático con experiencia en desarrollo de software. Poseo habilidades sólidas en desarrollo web utilizando Python y JavaScript. Destaco por mi capacidad para enseñar y servir como mentor, experiencia que he puesto en práctica como docente y tutor de programación.  Además, estoy certificado como: [Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4) por MongoDB y en [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) por Microsoft.
 
