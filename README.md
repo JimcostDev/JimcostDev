@@ -10,10 +10,9 @@
 <!-- frase de EGW -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines="Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes.")](https://git.io/typing-svg) 
 
-Soy ingeniero informático con experiencia en desarrollo de software. Poseo habilidades sólidas en desarrollo web utilizando Python y JavaScript. Destaco por mi capacidad para enseñar y servir como mentor, experiencia que he puesto en práctica como docente y tutor de programación.  Además, estoy certificado como: [Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4) por MongoDB y en [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) por Microsoft.
+Soy Ingeniero Informático con sólida experiencia en el desarrollo de software y un enfoque especializado en desarrollo web utilizando Python y JavaScript. A lo largo de mi carrera, me he destacado no solo por mis habilidades técnicas, sino también por mi capacidad para enseñar y mentorar, lo que me ha permitido ejercer como docente y tutor de programación, acompañando a estudiantes en su formación.
 
-Estoy seguro de que puedo ayudarte con mi experiencia y conocimiento, si quieres saber más sobre mí te invito a que visites mi página web: [jimcostdev.com](https://www.jimcostdev.com/)
-
+Además, cuento con certificaciones como [Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4) por MongoDB y en [Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s) por Microsoft, lo que respalda mis conocimientos en tecnologías de bases de datos y entornos en la nube.
 
 
 <!-- Trofeos y estadísticas de GitHub -->
