@@ -41,7 +41,13 @@ Además, cuento con certificaciones como [Associate Developer](https://www.credl
 
 <a href="https://github.com/JimcostDev/python_programming_fundamentals"><img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/header.png" style="height: 60%; width:60%;"/></a>
 
-[![curso-python](https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social)]([https://github.com/mouredev/roadmap-retos-programacion](https://github.com/JimcostDev/python_programming_fundamentals))
+[![curso-python](https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social)](https://github.com/JimcostDev/python_programming_fundamentals)
+
+## Ejercicios de Programación con Python 
+
+<a href="https://github.com/JimcostDev/Python_Ejercicios"><img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.jpg" style="height: 60%; width:60%;"/></a>
+
+[![curso-python](https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social)](https://github.com/JimcostDev/Python_Ejercicios)
 
 
 
