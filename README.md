@@ -12,7 +12,7 @@
 
 Soy Ingeniero Informático con sólida experiencia en el desarrollo de software y un enfoque especializado en desarrollo web utilizando Python y JavaScript. A lo largo de mi carrera, me he destacado no solo por mis habilidades técnicas, sino también por mi capacidad para enseñar, lo que me ha permitido ejercer como docente y tutor de programación, acompañando a estudiantes en su formación.
 
-Además, cuento con certificaciones como [MongoDB Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4) y [Microsoft Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s), lo que respalda mis conocimientos en tecnologías de bases de datos y entornos en la nube.
+Además, cuento con certificaciones como: [MongoDB Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4) y [Microsoft Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s), lo que respalda mis conocimientos en tecnologías de bases de datos y entornos en la nube.
 
 
 <!-- Trofeos y estadísticas de GitHub -->
