@@ -43,11 +43,19 @@ Además, cuento con certificaciones como: [MongoDB Associate Developer](https://
 
 [![curso-python](https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social)](https://github.com/JimcostDev/python_programming_fundamentals)
 
+## Programación en Go 
+
+<a href="https://github.com/JimcostDev/programming-in-go"><img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.jpg" style="height: 60%; width:60%;"/></a>
+
+[![curso-go](https://img.shields.io/github/stars/JimcostDev/programming-in-go?label=Programación%20En%20Go&style=social)](https://github.com/JimcostDev/programming-in-go)
+
 ## Ejercicios de Programación con Python 
 
 <a href="https://github.com/JimcostDev/Python_Ejercicios"><img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.jpg" style="height: 60%; width:60%;"/></a>
 
-[![curso-python](https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social)](https://github.com/JimcostDev/Python_Ejercicios)
+[![ejercicios-python](https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social)](https://github.com/JimcostDev/Python_Ejercicios)
+
+
 
 
 
