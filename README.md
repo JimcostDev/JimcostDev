@@ -37,9 +37,9 @@ Además, cuento con certificaciones como: [MongoDB Associate Developer](https://
 
 # Proyectos
 
-## Fundamentos de Programación y Programación con Python 
+## Fundamentos de Programación en Python 
 
-<a href="https://github.com/JimcostDev/python_programming_fundamentals"><img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/header.png" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/JimcostDev/python_programming_fundamentals"><img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.jpg" style="height: 60%; width:60%;"/></a>
 
 [![curso-python](https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social)](https://github.com/JimcostDev/python_programming_fundamentals)
 
