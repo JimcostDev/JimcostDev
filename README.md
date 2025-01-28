@@ -18,14 +18,11 @@ Además, cuento con certificaciones como: [MongoDB Associate Developer](https://
 <!-- Trofeos y estadísticas de GitHub -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev&&theme=github_dark" alt="jimcostdev" /></a> </p>
 
-<!-- stats and streak-stats -->
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev&theme=github_dark" alt="streak-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev&theme=github_dark" alt="Stats">
-</div>
+<!-- stats -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev) -->
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev)
 
-<!-- top langs -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&show_icons=true&locale=en&layout=compact&theme=github_dark) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75) 
 
 
 ## Puedes encontrarme en: :handshake:
