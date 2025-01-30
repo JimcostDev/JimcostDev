@@ -42,7 +42,7 @@ Además, cuento con certificaciones como: [MongoDB Associate Developer](https://
 
 ## Ruta de Aprendizaje MongoDB
 
-<a href="https://github.com/JimcostDev/mongodb_developer_path"><img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb-v2.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/JimcostDev/mongodb_developer_path"><img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.jpg" style="height: 60%; width:60%;"/></a>
 
 [![curso-mongodb](https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=Curso%20MongoDB&style=social)](https://github.com/JimcostDev/mongodb_developer_path)
 
