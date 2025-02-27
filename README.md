@@ -4,6 +4,7 @@
   <h3>Howdy, soy Ronaldo Jiménez 👋🏻</h3>
   <h3>Software Engineer  👨🏻‍💻</h3>
 </div>
+
 <div align="center" style="margin-top: 20px;">
   <!-- Certificaciones en formato badge (pequeño) -->
   <a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4">
@@ -29,6 +30,12 @@
   <img src="https://img.shields.io/github/stars/JimcostDev?style=social" alt="GitHub Stars">
 </div>
 
+<br>
+<p align="center">
+  <!-- Efecto de escritura -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines=Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes." alt="Typing SVG">
+</p>
+
 ### 📹 Explora el mundo de Go
 Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta serie de videos en mi [Canal de YouTube](https://youtube.com/@jimcostdev?sub_confirmation=1).
 <div align="center">
@@ -38,7 +45,6 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 </div>
 
 ## Puedes encontrarme en 🤝
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ronaldo-jimenez">
     <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
@@ -82,7 +88,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   </a>
   <br>
   <a href="https://github.com/JimcostDev/mongodb_developer_path">
-    <img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=Curso%20MongoDB&style=social" alt="Curso MongoDB">
+    <img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=MongoDB%20Developer&style=social" alt="Curso MongoDB">
   </a>
 </div>
 
@@ -103,7 +109,3 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75" alt="Top Languages">
 </div>-->
 
-<p align="center">
-  <!-- Efecto de escritura -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines=Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes." alt="Typing SVG">
-</p>
