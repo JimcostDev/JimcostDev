@@ -1,72 +1,111 @@
-# Howdy, soy Ronaldo Jiménez 👋🏻
-### Software Engineer & Web Developer :octocat:
-<!-- banner -->
-[![banner-yt](https://user-images.githubusercontent.com/53100460/254561844-6471bed7-ba32-4d66-b05f-007da9a95620.jpg)](https://www.youtube.com/@jimcostdev)
-![Profile Views](https://komarev.com/ghpvc/?username=JimcostDev&color=%23007bff&card=%23ffffff&title=%23007bff)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-l_8ggAw-u4dJZtO05F5zQ?style=social)](https://youtube.com/@jimcostdev?sub_confirmation=1)
-![GitHub Followers](https://img.shields.io/github/followers/JimcostDev?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/JimcostDev?style=social)
+<div align="center">
+  <!-- Imagen de perfil con estilo redondeado y sombra -->
+  <img src="https://www.jimcostdev.com/dev.webp" alt="Foto de Ronaldo Jiménez" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+  <h3>Howdy, soy Ronaldo Jiménez 👋🏻</h3>
+  <h3>Software Engineer  👨🏻‍💻</h3>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <!-- Certificaciones en formato badge (pequeño) -->
+  <a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4">
+    <img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-007BFF?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Associate Developer">
+  </a>
+  <a href="https://www.credly.com/badges/11bbfef7-0dba-4b71-9005-76aa60020a48/linked_in">
+    <img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-007BFF?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Associate DBA">
+  </a>
+  <a href="https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-007BFF?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals">
+  </a>
+</div>
 
-<!-- frase de EGW -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines="Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes.")](https://git.io/typing-svg) 
+<div align="center">
+  <!-- Badges de vistas y seguidores -->
+  <a href="https://komarev.com/ghpvc/?username=JimcostDev&color=%23007bff&card=%23ffffff&title=%23007bff">
+    <img src="https://komarev.com/ghpvc/?username=JimcostDev&color=%23007bff&card=%23ffffff&title=%23007bff" alt="Profile Views">
+  </a>
+  <a href="https://youtube.com/@jimcostdev?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC-l_8ggAw-u4dJZtO05F5zQ?style=social" alt="YouTube Channel Subscribers">
+  </a>
+  <img src="https://img.shields.io/github/followers/JimcostDev?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/JimcostDev?style=social" alt="GitHub Stars">
+</div>
 
-Soy Ingeniero Informático con experiencia en desarrollo de software y una gran pasión por la tecnología. Desde mis inicios explorando hardware hasta mi consolidación en el mundo del desarrollo, he construido una trayectoria que combina habilidades técnicas con vocación docente. Disfruto creando soluciones digitales y compartiendo conocimientos, ayudando a otros a crecer en el ámbito tecnológico. Cuento con certificaciones que respaldan mi conocimiento en bases de datos y entornos en la nube. Siempre en busca de nuevos retos y oportunidades para innovar.
+### 📹 Explora el mundo de Go
 
-{
+Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta serie de videos en mi [Canal de YouTube](https://youtube.com/@jimcostdev?sub_confirmation=1).
 
-[MongoDB Associate Developer](https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4), 
+<div align="center">
+  <a href="https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X" target="_blank">
+    <img width="30%" src="https://i.ytimg.com/pl_c/PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X/studio_square_thumbnail.jpg?sqp=CIS9gr4G-oaymwEICKoDEPABSFqi85f_AwYIgNutvQY=&rs=AOn4CLAU9ffBuNL_8_DM_dg9Etips0rpyA" alt="Curso Go">
+  </a>
+</div>
 
-[MongoDB Associate DBA](https://www.credly.com/badges/11bbfef7-0dba-4b71-9005-76aa60020a48/linked_in),
+## Puedes encontrarme en 🤝
 
-[Microsoft Azure Fundamentals](https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s)
-
-}
-
-
-<!-- Trofeos y estadísticas de GitHub -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev&&theme=github_dark" alt="jimcostdev" /></a> </p>
-
-<!-- stats -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev) -->
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev)
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75) 
-
-
-## Puedes encontrarme en: :handshake:
-
-<!-- Enlaces de contacto -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ronaldo-jimenez)
-[![Web](https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jimcostdev.com)
-[![YouTube](https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jimcostdev)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ronaldo-jimenez">
+    <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+  </a>
+  <a href="https://jimcostdev.com">
+    <img src="https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="Web">
+  </a>
+  <a href="https://youtube.com/@jimcostdev">
+    <img src="https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" alt="YouTube">
+  </a>
+</div>
 
 # Proyectos
 
-## Fundamentos de Programación en Python 
+### Fundamentos de Programación en Python
+<div align="center">
+  <a href="https://github.com/JimcostDev/python_programming_fundamentals">
+    <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.jpg" alt="Curso Python" style="width:60%; height:auto;">
+  </a>
+  <br>
+  <a href="https://github.com/JimcostDev/python_programming_fundamentals">
+    <img src="https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social" alt="Curso Python">
+  </a>
+</div>
 
-<a href="https://github.com/JimcostDev/python_programming_fundamentals"><img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.jpg" style="height: 60%; width:60%;"/></a>
+### Programación en Go
+<div align="center">
+  <a href="https://github.com/JimcostDev/curso-go">
+    <img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.jpg" alt="Programación en Go" style="width:60%; height:auto;">
+  </a>
+  <br>
+  <a href="https://github.com/JimcostDev/curso-go">
+    <img src="https://img.shields.io/github/stars/JimcostDev/programming-in-go?label=Programación%20En%20Go&style=social" alt="Programación en Go">
+  </a>
+</div>
 
-[![curso-python](https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social)](https://github.com/JimcostDev/python_programming_fundamentals)
+### Ruta de Aprendizaje MongoDB
+<div align="center">
+  <a href="https://github.com/JimcostDev/mongodb_developer_path">
+    <img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.jpg" alt="Curso MongoDB" style="width:60%; height:auto;">
+  </a>
+  <br>
+  <a href="https://github.com/JimcostDev/mongodb_developer_path">
+    <img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=Curso%20MongoDB&style=social" alt="Curso MongoDB">
+  </a>
+</div>
 
-## Ruta de Aprendizaje MongoDB
+### Ejercicios de Programación con Python
+<div align="center">
+  <a href="https://github.com/JimcostDev/Python_Ejercicios">
+    <img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.jpg" alt="Ejercicios de Python" style="width:60%; height:auto;">
+  </a>
+  <br>
+  <a href="https://github.com/JimcostDev/Python_Ejercicios">
+    <img src="https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social" alt="Ejercicios de Python">
+  </a>
+</div>
 
-<a href="https://github.com/JimcostDev/mongodb_developer_path"><img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.jpg" style="height: 60%; width:60%;"/></a>
+<!-- Estadísticas de GitHub -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75" alt="Top Languages">
+</div>
 
-[![curso-mongodb](https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=Curso%20MongoDB&style=social)](https://github.com/JimcostDev/mongodb_developer_path)
-
-## Programación en Go 
-
-<a href="https://github.com/JimcostDev/programming-in-go"><img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.jpg" style="height: 60%; width:60%;"/></a>
-
-[![curso-go](https://img.shields.io/github/stars/JimcostDev/programming-in-go?label=Programación%20En%20Go&style=social)](https://github.com/JimcostDev/programming-in-go)
-
-## Ejercicios de Programación con Python 
-
-<a href="https://github.com/JimcostDev/Python_Ejercicios"><img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.jpg" style="height: 60%; width:60%;"/></a>
-
-[![ejercicios-python](https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social)](https://github.com/JimcostDev/Python_Ejercicios)
-
-
-
-
-
+<p align="center">
+  <!-- Efecto de escritura -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines=Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes." alt="Typing SVG">
+</p>
