@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-007BFF?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Associate DBA">
   </a>
   <a href="https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-007BFF?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-007BFF?style=flat-square&logo=microsoft-azure&logoColor=white" 
+     alt="Microsoft Azure Fundamentals">
   </a>
 </div>
 
