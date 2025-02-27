@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagen de perfil con estilo redondeado y sombra -->
-  <img src="https://www.jimcostdev.com/dev.webp" alt="Foto de Ronaldo Jiménez" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+  <img src="https://www.jimcostdev.com/dev.webp" alt="Foto de Ronaldo Jiménez" width="200" style="border-radius: 100%; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 5px solid #007BFF;">
   <h3>Howdy, soy Ronaldo Jiménez 👋🏻</h3>
   <h3>Software Engineer  👨🏻‍💻</h3>
 </div>
@@ -30,12 +30,10 @@
 </div>
 
 ### 📹 Explora el mundo de Go
-
 Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta serie de videos en mi [Canal de YouTube](https://youtube.com/@jimcostdev?sub_confirmation=1).
-
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X" target="_blank">
-    <img width="30%" src="https://i.ytimg.com/pl_c/PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X/studio_square_thumbnail.jpg?sqp=CIS9gr4G-oaymwEICKoDEPABSFqi85f_AwYIgNutvQY=&rs=AOn4CLAU9ffBuNL_8_DM_dg9Etips0rpyA" alt="Curso Go">
+    <img width="60%" src="https://i.ytimg.com/pl_c/PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X/studio_square_thumbnail.jpg?sqp=CIS9gr4G-oaymwEICKoDEPABSFqi85f_AwYIgNutvQY=&rs=AOn4CLAU9ffBuNL_8_DM_dg9Etips0rpyA" alt="Curso Go">
   </a>
 </div>
 
@@ -73,7 +71,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   </a>
   <br>
   <a href="https://github.com/JimcostDev/curso-go">
-    <img src="https://img.shields.io/github/stars/JimcostDev/programming-in-go?label=Programación%20En%20Go&style=social" alt="Programación en Go">
+    <img src="https://img.shields.io/github/stars/JimcostDev/curso-go?label=Curso%20Go&style=social" alt="Curso Python">
   </a>
 </div>
 
@@ -99,11 +97,11 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   </a>
 </div>
 
-<!-- Estadísticas de GitHub -->
+<!-- Estadísticas de GitHub 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75" alt="Top Languages">
-</div>
+</div>-->
 
 <p align="center">
   <!-- Efecto de escritura -->
