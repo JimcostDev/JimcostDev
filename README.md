@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- Imagen de perfil con estilo redondeado y sombra -->
-  <img src="https://www.jimcostdev.com/me.webp" alt="Foto de Ronaldo Jiménez" width="200" style="border-radius: 100%; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 5px solid #007BFF;">
   <h3>Howdy, soy Ronaldo Jiménez 👋🏻</h3>
   <h3>Software Engineer  👨🏻‍💻</h3>
 </div>
