@@ -18,9 +18,6 @@
 
 <div align="center">
   <!-- Badges de vistas y seguidores -->
-  <a href="https://komarev.com/ghpvc/?username=JimcostDev&color=%23007bff&card=%23ffffff&title=%23007bff">
-    <img src="https://komarev.com/ghpvc/?username=JimcostDev&color=%23007bff&card=%23ffffff&title=%23007bff" alt="Profile Views">
-  </a>
   <a href="https://youtube.com/@jimcostdev?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC-l_8ggAw-u4dJZtO05F5zQ?style=social" alt="YouTube Channel Subscribers">
   </a>
