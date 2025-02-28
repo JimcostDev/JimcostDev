@@ -39,7 +39,7 @@
 Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta serie de videos en mi [Canal de YouTube](https://youtube.com/@jimcostdev?sub_confirmation=1).
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X" target="_blank">
-    <img width="60%" src="https://i.ytimg.com/pl_c/PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X/studio_square_thumbnail.jpg?sqp=CIS9gr4G-oaymwEICKoDEPABSFqi85f_AwYIgNutvQY=&rs=AOn4CLAU9ffBuNL_8_DM_dg9Etips0rpyA" alt="Curso Go">
+    <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/gophers.jpg" alt="Curso Go">
   </a>
 </div>
 
