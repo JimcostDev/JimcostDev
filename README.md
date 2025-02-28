@@ -6,13 +6,13 @@
 <div align="center" style="margin-top: 20px;">
   <!-- Certificaciones en formato badge (pequeño) -->
   <a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4">
-    <img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-DAFBE1?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate Developer">
+    <img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-F2FBFF?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate Developer">
   </a>
   <a href="https://www.credly.com/badges/11bbfef7-0dba-4b71-9005-76aa60020a48/linked_in">
-    <img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-DAFBE1?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate DBA">
+    <img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-F2FBFF?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate DBA">
   </a>
   <a href="https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-DAFBE1?style=flat-square&logo=dotnet&logoColor=gray" alt="Microsoft Azure Fundamentals">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-F2FBFF?style=flat-square&logo=dotnet&logoColor=gray" alt="Microsoft Azure Fundamentals">
   </a>
 </div>
 
