@@ -40,10 +40,10 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 ## Puedes encontrarme en 🤝
 <div align="center">
   <a href="https://www.linkedin.com/in/ronaldo-jimenez">
-    <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="LinkedIn">
   </a>
   <a href="https://jimcostdev.com">
-    <img src="https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="Web">
+    <img src="https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="Web">
   </a>
   <a href="https://youtube.com/@jimcostdev">
     <img src="https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" alt="YouTube">
