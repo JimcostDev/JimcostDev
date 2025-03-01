@@ -55,7 +55,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 ### Fundamentos de Programación en Python
 <div align="center">
   <a href="https://github.com/JimcostDev/python_programming_fundamentals">
-    <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.jpg" alt="Curso Python" style="width:60%; height:auto;">
+    <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.webp" alt="Curso Python" style="width:60%; height:auto;">
   </a>
   <br>
   <a href="https://github.com/JimcostDev/python_programming_fundamentals">
@@ -66,7 +66,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 ### Programación en Go
 <div align="center">
   <a href="https://github.com/JimcostDev/curso-go">
-    <img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.jpg" alt="Programación en Go" style="width:60%; height:auto;">
+    <img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.webp" alt="Programación en Go" style="width:60%; height:auto;">
   </a>
   <br>
   <a href="https://github.com/JimcostDev/curso-go">
@@ -77,7 +77,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 ### Ruta de Aprendizaje MongoDB
 <div align="center">
   <a href="https://github.com/JimcostDev/mongodb_developer_path">
-    <img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.jpg" alt="Curso MongoDB" style="width:60%; height:auto;">
+    <img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.webp" alt="Curso MongoDB" style="width:60%; height:auto;">
   </a>
   <br>
   <a href="https://github.com/JimcostDev/mongodb_developer_path">
@@ -88,7 +88,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
 ### Ejercicios de Programación con Python
 <div align="center">
   <a href="https://github.com/JimcostDev/Python_Ejercicios">
-    <img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.jpg" alt="Ejercicios de Python" style="width:60%; height:auto;">
+    <img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.webp" alt="Ejercicios de Python" style="width:60%; height:auto;">
   </a>
   <br>
   <a href="https://github.com/JimcostDev/Python_Ejercicios">
