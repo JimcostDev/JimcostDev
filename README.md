@@ -29,15 +29,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines=Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes." alt="Typing SVG">
 </p> -->
 
-### 📹 Explora el mundo de Go
-Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta serie de videos en mi [Canal de YouTube](https://youtube.com/@jimcostdev?sub_confirmation=1).
-<div align="center">
-  <a href="https://youtube.com/playlist?list=PLlWTGK7QJnmDtruzihqTgdi4FcM2enA1X" target="_blank">
-    <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/gophers.jpg" alt="Curso Go">
-  </a>
-</div>
+<br/>
 
-## Puedes encontrarme en 🤝
 <div align="center">
   <a href="https://www.linkedin.com/in/ronaldo-jimenez">
     <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="LinkedIn">
@@ -45,12 +38,21 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   <a href="https://jimcostdev.com">
     <img src="https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="Web">
   </a>
-  <a href="https://youtube.com/@jimcostdev">
+  <a href="https://www.youtube.com/@jimcostdev?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" alt="YouTube">
   </a>
 </div>
 
-# Proyectos
+### 📹 Explora el mundo de Go
+Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi curso de [Programación en Go 🚀](https://golang.jimcostdev.com/).
+<div align="center">
+  <a href="https://golang.jimcostdev.com/" target="_blank">
+    <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/gophers.jpg" alt="Curso Go">
+  </a>
+</div>
+
+
+## 📦 Otros Proyectos Relevantes
 
 ### Fundamentos de Programación en Python
 <div align="center">
@@ -60,17 +62,6 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con esta
   <br>
   <a href="https://github.com/JimcostDev/python_programming_fundamentals">
     <img src="https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social" alt="Curso Python">
-  </a>
-</div>
-
-### Programación en Go
-<div align="center">
-  <a href="https://github.com/JimcostDev/curso-go">
-    <img src="https://github.com/JimcostDev/programming-in-go/blob/master/imgs/golang.webp" alt="Programación en Go" style="width:60%; height:auto;">
-  </a>
-  <br>
-  <a href="https://github.com/JimcostDev/curso-go">
-    <img src="https://img.shields.io/github/stars/JimcostDev/curso-go?label=Curso%20Go&style=social" alt="Curso Python">
   </a>
 </div>
 
