@@ -1,17 +1,15 @@
 name: "Actualizar Últimos Videos de YouTube"
 
 on:
-  # Ejecuta este flujo de trabajo cada 12 horas
   schedule:
-    - cron: '0 */12 * * *' # Cada 12 horas
-  # Permite ejecutarlo manualmente desde la pestaña de Acciones
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   update-youtube-videos:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite que la acción escriba en el repositorio (para actualizar el README)
+      contents: write
 
     steps:
       - name: Checkout el repositorio
@@ -24,5 +22,3 @@ jobs:
           comment_tag_name: "YOUTUBE"
           template: "- [$title]($url)"
           max_post_count: "5"
-          image_thumbnail: "true"
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
