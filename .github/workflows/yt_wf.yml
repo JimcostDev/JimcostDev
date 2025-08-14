@@ -20,5 +20,5 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-l_8ggAw-u4dJZtO05F5zQ"
           comment_tag_name: "YOUTUBE"
-          template: "- [$title]($url)"
+          template: "- [$title]($url)\n"
           max_post_count: "5"
