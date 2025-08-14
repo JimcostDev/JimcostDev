@@ -1,43 +1,41 @@
 name: Actualizar Últimos Videos de YouTube
 
-    on:
-      # Ejecuta este flujo de trabajo cada 12 horas
-      schedule:
-        - cron: '0 */12 * * *' # Cada 12 horas
-      # Permite ejecutarlo manualmente desde la pestaña de Acciones
-      workflow_dispatch:
+on:
+  # Ejecuta este flujo de trabajo cada 12 horas
+  schedule:
+    - cron: '0 */12 * * *' # Cada 12 horas
+  # Permite ejecutarlo manualmente desde la pestaña de Acciones
+  workflow_dispatch:
 
-    jobs:
-      update-youtube-videos:
-        runs-on: ubuntu-latest
-        permissions:
-          contents: write # Permite que la acción escriba en el repositorio (para actualizar el README)
+jobs:
+  update-youtube-videos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que la acción escriba en el repositorio (para actualizar el README)
 
-        steps:
-          - name: Checkout el repositorio
-            uses: actions/checkout@v4
+    steps:
+      - name: Checkout el repositorio
+        uses: actions/checkout@v4
 
-          - name: Actualizar README con los últimos videos de YouTube
-            uses: gautamkrishnar/blog-post-workflow@v1.2
-            with:
-              # La fuente de los videos. Aquí, el ID de tu canal de YouTube.
-              # Puedes encontrar el ID de tu canal en la URL de tu canal o en la configuración avanzada de YouTube.
-              feed_list: "[https://www.youtube.com/feeds/videos.xml?channel_id=UC-l_8ggAw-u4dJZtO05F5zQ](https://www.youtube.com/feeds/videos.xml?channel_id=UC-l_8ggAw-u4dJZtO05F5zQ)"
+      - name: Actualizar README con los últimos videos de YouTube
+        uses: gautamkrishnar/blog-post-workflow@v1.2
+        with:
+          # La fuente de los videos. Aquí, el ID de tu canal de YouTube.
+          # Puedes encontrar el ID de tu canal en la URL de tu canal o en la configuración avanzada de YouTube.
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-l_8ggAw-u4dJZtO05F5zQ" # ID del canal @jimcostdev
 
-              # Marcadores en tu README.md donde se insertarán los videos.
-              # Asegúrate de que tu README.md tenga <!-- YOUTUBE:START --> y <!-- YOUTUBE:END -->
-              comment_tag_name: "YOUTUBE"
+          # Marcadores en tu README.md donde se insertarán los videos.
+          # Asegúrate de que tu README.md tenga <!-- YOUTUBE:START --> y <!-- YOUTUBE:END -->
+          comment_tag_name: "YOUTUBE"
 
-              # Formato de la lista de videos.
-              template: "- [$title]($url)"
+          # Formato de la lista de videos.
+          template: "- [$title]($url)"
 
-              # Número máximo de videos a mostrar.
-              max_post_count: "5"
+          # Número máximo de videos a mostrar.
+          max_post_count: "5"
 
-              # Incluir miniaturas de los videos.
-              image_thumbnail: "true"
+          # Incluir miniaturas de los videos.
+          image_thumbnail: "true"
 
-              # Aquí usamos el secreto de GitHub que creamos.
-              youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-
-        
+          # Aquí usamos el secreto de GitHub que creamos.
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
