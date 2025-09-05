@@ -68,7 +68,7 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi c
 
 ## 📦 Otros Proyectos Relevantes
 
-### Fundamentos de Programación en Python
+### Programación en Python
 <div align="center">
   <a href="https://github.com/JimcostDev/python_programming_fundamentals">
     <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.webp" alt="Curso Python" style="width:60%; height:auto;">
@@ -87,17 +87,6 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi c
   <br>
   <a href="https://github.com/JimcostDev/mongodb_developer_path">
     <img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=MongoDB%20Developer&style=social" alt="Curso MongoDB">
-  </a>
-</div>
-
-### Ejercicios de Programación con Python
-<div align="center">
-  <a href="https://github.com/JimcostDev/Python_Ejercicios">
-    <img src="https://github.com/JimcostDev/Python_Ejercicios/blob/master/imgs/python-ejercicios.webp" alt="Ejercicios de Python" style="width:60%; height:auto;">
-  </a>
-  <br>
-  <a href="https://github.com/JimcostDev/Python_Ejercicios">
-    <img src="https://img.shields.io/github/stars/JimcostDev/Python_Ejercicios?label=Python%20Ejercicios&style=social" alt="Ejercicios de Python">
   </a>
 </div>
 
