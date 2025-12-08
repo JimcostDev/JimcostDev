@@ -57,7 +57,7 @@
 Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi curso de [Programación en Go 🚀](https://golang.jimcostdev.com/).
 <div align="center">
   <a href="https://golang.jimcostdev.com/" target="_blank">
-    <img width="60%" src="https://github.com/JimcostDev/curso/raw/master/imgs/golang.webp" alt="Curso Go">
+    <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/golang.webp" alt="Curso Go">
   </a>
   <br>
   <a href="https://github.com/JimcostDev/curso-go">
