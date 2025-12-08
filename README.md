@@ -90,8 +90,3 @@ Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi c
   </a>
 </div>
 
-### Estadísticas de GitHub
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&title_color=586E75" alt="Top Languages">
-</div>
-
