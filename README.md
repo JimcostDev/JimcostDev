@@ -46,7 +46,7 @@
 ## Últimos videos en YouTube
 
 <!-- YOUTUBE:START -->
-- [Demo TFG: Portafolio Web y API RESTful &lpar;Astro, FastAPI, MongoDB&rpar;](https://www.youtube.com/watch?v=RC4gM9fn2LA)
+- [🎓 Demo TFG: Portafolio Web y API RESTful &lpar;Astro, FastAPI, MongoDB&rpar;](https://www.youtube.com/watch?v=RC4gM9fn2LA)
 - [🧪 Testing en Go: Unit Tests y Table-Driven Tests](https://www.youtube.com/watch?v=NQGJGypYlEo)
 - [📦 Gestión de Módulos en Go: Paquetes, go.mod y go.sum](https://www.youtube.com/watch?v=AibVxJxm1ck)
 - [🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML](https://www.youtube.com/watch?v=Ibl44mwn2vI)
