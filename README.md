@@ -54,9 +54,9 @@
 <!-- YOUTUBE:END -->
 
 ### 📹 Explora el mundo de Go
-Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi curso de [Programación en Go 🚀](https://golang.jimcostdev.com/).
+Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi curso de [Programación en Go 🚀](https://www.udemy.com/course/programacion-en-go/?referralCode=58BB6EDFACD4FC0E58AC).
 <div align="center">
-  <a href="https://golang.jimcostdev.com/" target="_blank">
+  <a href="https://www.udemy.com/course/programacion-en-go/?referralCode=58BB6EDFACD4FC0E58AC/" target="_blank">
     <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/golang.webp" alt="Curso Go">
   </a>
   <br>
