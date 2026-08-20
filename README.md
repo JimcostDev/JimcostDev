@@ -1,49 +1,100 @@
 <div align="center">
-  <h3>Howdy, soy Ronaldo Jiménez 👋🏻</h3>
-  <h3>Software Engineer  👨🏻‍💻</h3>
+
+<br>
+
+# Ronaldo Jiménez
+
+### Software Engineer
+
+<sub>Backend · Go · Python · MongoDB</sub>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-jimenez)
+[![Web](https://img.shields.io/badge/jimcostdev.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://jimcostdev.com)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@jimcostdev?sub_confirmation=1)
+[![GitHub Followers](https://img.shields.io/github/followers/JimcostDev?style=flat-square&color=000000&labelColor=000000)](https://github.com/JimcostDev)
+
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- Certificaciones en formato badge (pequeño) -->
-  <a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4">
-    <img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-F2FBFF?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate Developer">
-  </a>
-  <a href="https://www.credly.com/badges/11bbfef7-0dba-4b71-9005-76aa60020a48/linked_in">
-    <img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-F2FBFF?style=flat-square&logo=mongodb&logoColor=gray" alt="MongoDB Associate DBA">
-  </a>
-  <a href="https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b/linked_in?t=rpev2s">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-F2FBFF?style=flat-square&logo=dotnet&logoColor=gray" alt="Microsoft Azure Fundamentals">
-  </a>
-</div>
+<br>
 
 <div align="center">
-  <!-- Badges de vistas y seguidores -->
-  <a href="https://youtube.com/@jimcostdev?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC-l_8ggAw-u4dJZtO05F5zQ?style=social" alt="YouTube Channel Subscribers">
-  </a>
-  <img src="https://img.shields.io/github/followers/JimcostDev?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/JimcostDev?style=social" alt="GitHub Stars">
+<img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248&logoWidth=14" alt="MongoDB Associate Developer" height="26">
+<a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4"></a>
+<img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248&logoWidth=14" alt="MongoDB Associate DBA" height="26">
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-FFFFFF?style=flat-square&logo=microsoftazure&logoColor=0078D4&logoWidth=14" alt="Microsoft Azure Fundamentals" height="26">
 </div>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines=Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes." alt="Typing SVG">
-</p> -->
-
-<br/>
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ronaldo-jimenez">
-    <img src="https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="LinkedIn">
-  </a>
-  <a href="https://jimcostdev.com">
-    <img src="https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="Web">
-  </a>
-  <a href="https://www.youtube.com/@jimcostdev?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" alt="YouTube">
-  </a>
+<sub>▲ pulsa un badge para ver la credencial ▲</sub>
 </div>
 
-## Últimos videos en YouTube
+<br><br>
+
+<div align="center">
+
+## Proyectos destacados
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/JimcostDev/curso-go">
+<img src="https://github.com/JimcostDev/curso-go/blob/master/imgs/golang.webp" width="100%" alt="Curso de Go">
+</a>
+<br><br>
+<b>Programación en Go</b>
+<br>
+<sub>Curso completo del lenguaje, de cero a producción</sub>
+<br><br>
+<a href="https://github.com/JimcostDev/curso-go">
+<img src="https://img.shields.io/github/stars/JimcostDev/curso-go?style=flat-square&color=000000&labelColor=FFFFFF&label=stars" alt="stars">
+</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/JimcostDev/python_programming_fundamentals">
+<img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.webp" width="100%" alt="Fundamentos de Python">
+</a>
+<br><br>
+<b>Fundamentos de Python</b>
+<br>
+<sub>Bases sólidas del lenguaje explicadas paso a paso</sub>
+<br><br>
+<a href="https://github.com/JimcostDev/python_programming_fundamentals">
+<img src="https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?style=flat-square&color=000000&labelColor=FFFFFF&label=stars" alt="stars">
+</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/JimcostDev/mongodb_developer_path">
+<img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.webp" width="100%" alt="Ruta MongoDB Developer">
+</a>
+<br><br>
+<b>Ruta MongoDB Developer</b>
+<br>
+<sub>Camino guiado para certificarte como developer</sub>
+<br><br>
+<a href="https://github.com/JimcostDev/mongodb_developer_path">
+<img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?style=flat-square&color=000000&labelColor=FFFFFF&label=stars" alt="stars">
+</a>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+## Últimos videos
+
+<sub>se actualiza solo cada 12h vía GitHub Actions</sub>
+
+</div>
+
+<br>
 
 <!-- YOUTUBE:START -->
 - [🎓 Demo TFG: Portafolio Web y API RESTful &lpar;Astro, FastAPI, MongoDB&rpar;](https://www.youtube.com/watch?v=RC4gM9fn2LA)
@@ -53,40 +104,12 @@
 - [🌐 Servicios Web en Go: Introducción al Desarrollo Web](https://www.youtube.com/watch?v=IV-Z4l1zU4o)
 <!-- YOUTUBE:END -->
 
-### 📹 Explora el mundo de Go
-Domina uno de los lenguajes más potentes y eficientes de la actualidad con mi curso de [Programación en Go 🚀](https://www.udemy.com/course/programacion-en-go/?referralCode=58BB6EDFACD4FC0E58AC).
 <div align="center">
-  <a href="https://www.udemy.com/course/programacion-en-go/?referralCode=58BB6EDFACD4FC0E58AC/" target="_blank">
-    <img width="60%" src="https://github.com/JimcostDev/curso-go/blob/master/imgs/golang.webp" alt="Curso Go">
-  </a>
-  <br>
-  <a href="https://github.com/JimcostDev/curso-go">
-    <img src="https://img.shields.io/github/stars/JimcostDev/curso-go?label=Curso%20Go&style=social" alt="Curso Go">
-  </a>
+<sub><a href="https://youtube.com/@jimcostdev?sub_confirmation=1">ver el canal completo →</a></sub>
 </div>
 
+<br><br>
 
-## 📦 Otros Proyectos Relevantes
-
-### Programación en Python
 <div align="center">
-  <a href="https://github.com/JimcostDev/python_programming_fundamentals">
-    <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.webp" alt="Curso Python" style="width:60%; height:auto;">
-  </a>
-  <br>
-  <a href="https://github.com/JimcostDev/python_programming_fundamentals">
-    <img src="https://img.shields.io/github/stars/JimcostDev/python_programming_fundamentals?label=Python%20Fundamentals&style=social" alt="Curso Python">
-  </a>
+<sub>© Ronaldo Jiménez</sub>
 </div>
-
-### Ruta de Aprendizaje MongoDB
-<div align="center">
-  <a href="https://github.com/JimcostDev/mongodb_developer_path">
-    <img src="https://github.com/JimcostDev/mongodb_developer_path/blob/master/imgs/mongodb.webp" alt="Curso MongoDB" style="width:60%; height:auto;">
-  </a>
-  <br>
-  <a href="https://github.com/JimcostDev/mongodb_developer_path">
-    <img src="https://img.shields.io/github/stars/JimcostDev/mongodb_developer_path?label=MongoDB%20Developer&style=social" alt="Curso MongoDB">
-  </a>
-</div>
-
