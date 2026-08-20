@@ -20,16 +20,23 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/MongoDB%20Associate%20Developer-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248&logoWidth=14" alt="MongoDB Associate Developer" height="26">
-<a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a/linked_in?t=sc5tk4"></a>
-<img src="https://img.shields.io/badge/MongoDB%20Associate%20DBA-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248&logoWidth=14" alt="MongoDB Associate DBA" height="26">
-<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-FFFFFF?style=flat-square&logo=microsoftazure&logoColor=0078D4&logoWidth=14" alt="Microsoft Azure Fundamentals" height="26">
-</div>
 
-<br>
+<a href="https://www.credly.com/badges/e537a319-3e5b-456a-ac82-31c04834f30a">
+<img src="https://images.credly.com/images/46c663b1-d946-4f0e-8698-a490bd52b384/linkedin_thumb_image.png" alt="MongoDB Associate Developer" height="90">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/11bbfef7-0dba-4b71-9005-76aa60020a48">
+<img src="https://images.credly.com/images/395e38b5-2a2e-49aa-9416-df8f5619399d/linkedin_thumb_image.png" alt="MongoDB Associate DBA" height="90">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/e8c1f177-3d1f-4496-9461-1b468ed30b4b">
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/linkedin_thumb_image.png" alt="Microsoft Azure Fundamentals" height="90">
+</a>
 
-<div align="center">
-<sub>▲ pulsa un badge para ver la credencial ▲</sub>
+<br><br>
+
+<sub>▲ pulsa una insignia para ver la credencial verificada en Credly ▲</sub>
+
 </div>
 
 <br><br>
