@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-jimenez)
 [![Web](https://img.shields.io/badge/jimcostdev.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://jimcostdev.com)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@jimcostdev?sub_confirmation=1)
-[![GitHub Followers](https://img.shields.io/github/followers/JimcostDev?style=flat-square&color=000000&labelColor=000000)](https://github.com/JimcostDev)
 
 </div>
 
