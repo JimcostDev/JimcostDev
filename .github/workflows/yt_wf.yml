@@ -15,4 +15,5 @@ jobs:
         with:
           max_post_count: "5"
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://rsshub.app/youtube/channel/UC-l_8ggAw-u4dJZtO05F5zQ"
+          feed_list: "https://rsshub.moeyy.cn/youtube/channel/UC-l_8ggAw-u4dJZtO05F5zQ"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
