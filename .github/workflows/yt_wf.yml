@@ -7,14 +7,15 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with latest videos from mi Youtube Channel
+    name: Update this repo's README with latest videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      
+      - name: YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          max_post_count: "5"
-          comment_tag_name: "YOUTUBE"
-          # Utilizamos una instancia pública de RSSHub libre de bloqueos
-          feed_list: "https://rsshub.rssforever.com/youtube/channel/UC-l_8ggAw-u4dJZtO05F5zQ"
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          channel_id: "UC-l_8ggAw-u4dJZtO05F5zQ"
+          comment_tag_name: "YOUTUBE-CARDS"
+          max_videos: 6
+          theme: "dark" # "light"
