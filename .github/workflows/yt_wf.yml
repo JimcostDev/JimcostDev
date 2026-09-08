@@ -1,7 +1,6 @@
 name: "Actualizar Últimos Videos de YouTube"
 on:
   schedule:
-    # Se ejecuta cada 2 días
     - cron: '0 0 */2 * *'
   workflow_dispatch:
 
@@ -18,4 +17,6 @@ jobs:
           channel_id: "UC-l_8ggAw-u4dJZtO05F5zQ"
           comment_tag_name: "YOUTUBE-CARDS"
           max_videos: 6
-          theme: "dark" # "light"
+          background_color: "0d1117" # Color fondo para que parezca nativo al modo oscuro
+          title_color: "ffffff"
+          stats_color: "8b949e"
