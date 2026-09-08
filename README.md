@@ -96,19 +96,14 @@
 
 ## Últimos videos
 
-<sub>se actualiza solo cada 12h vía GitHub Actions</sub>
+<sub>se actualiza solo cada 2 días vía GitHub Actions</sub>
 
 </div>
 
 <br>
 
-<!-- YOUTUBE:START -->
-- [🎓 Demo TFG: Portafolio Web y API RESTful &lpar;Astro, FastAPI, MongoDB&rpar;](https://www.youtube.com/watch?v=RC4gM9fn2LA)
-- [🧪 Testing en Go: Unit Tests y Table-Driven Tests](https://www.youtube.com/watch?v=NQGJGypYlEo)
-- [📦 Gestión de Módulos en Go: Paquetes, go.mod y go.sum](https://www.youtube.com/watch?v=AibVxJxm1ck)
-- [🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML](https://www.youtube.com/watch?v=Ibl44mwn2vI)
-- [🌐 Servicios Web en Go: Introducción al Desarrollo Web](https://www.youtube.com/watch?v=IV-Z4l1zU4o)
-<!-- YOUTUBE:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <div align="center">
 <sub><a href="https://youtube.com/@jimcostdev?sub_confirmation=1">ver el canal completo →</a></sub>
