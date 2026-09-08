@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "5"
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://yewtu.be/feed/channel/UC-l_8ggAw-u4dJZtO05F5zQ"
+          feed_list: "https://rsshub.app/youtube/channel/UC-l_8ggAw-u4dJZtO05F5zQ"
