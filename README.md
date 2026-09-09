@@ -103,12 +103,7 @@
 <br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🎓 Demo TFG: Portafolio Web y API RESTful (Astro, FastAPI, MongoDB)](https://ytcards.demolab.com/?id=RC4gM9fn2LA&title=%F0%9F%8E%93+Demo+TFG%3A+Portafolio+Web+y+API+RESTful+%28Astro%2C+FastAPI%2C+MongoDB%29&lang=en&timestamp=1765056068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🎓 Demo TFG: Portafolio Web y API RESTful (Astro, FastAPI, MongoDB)")](https://www.youtube.com/watch?v=RC4gM9fn2LA)
-[![🧪 Testing en Go: Unit Tests y Table-Driven Tests](https://ytcards.demolab.com/?id=NQGJGypYlEo&title=%F0%9F%A7%AA+Testing+en+Go%3A+Unit+Tests+y+Table-Driven+Tests&lang=en&timestamp=1755013506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🧪 Testing en Go: Unit Tests y Table-Driven Tests")](https://www.youtube.com/watch?v=NQGJGypYlEo)
-[![📦 Gestión de Módulos en Go: Paquetes, go.mod y go.sum](https://ytcards.demolab.com/?id=AibVxJxm1ck&title=%F0%9F%93%A6+Gesti%C3%B3n+de+M%C3%B3dulos+en+Go%3A+Paquetes%2C+go.mod+y+go.sum&lang=en&timestamp=1754408706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "📦 Gestión de Módulos en Go: Paquetes, go.mod y go.sum")](https://www.youtube.com/watch?v=AibVxJxm1ck)
-[![🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML](https://ytcards.demolab.com/?id=Ibl44mwn2vI&title=%F0%9F%95%B8%EF%B8%8F+Tu+Primer+Servidor+Web+en+Go%3A+Rutas%2C+Par%C3%A1metros+y+HTML&lang=en&timestamp=1753806606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🕸️ Tu Primer Servidor Web en Go: Rutas, Parámetros y HTML")](https://www.youtube.com/watch?v=Ibl44mwn2vI)
-[![🌐 Servicios Web en Go: Introducción al Desarrollo Web](https://ytcards.demolab.com/?id=IV-Z4l1zU4o&title=%F0%9F%8C%90+Servicios+Web+en+Go%3A+Introducci%C3%B3n+al+Desarrollo+Web&lang=en&timestamp=1753803906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🌐 Servicios Web en Go: Introducción al Desarrollo Web")](https://www.youtube.com/watch?v=IV-Z4l1zU4o)
-[![⚙️ Concurrencia en Go: Goroutines, Canales, Mutex y WaitGroups en Acción](https://ytcards.demolab.com/?id=TjWuo5p3Oxw&title=%E2%9A%99%EF%B8%8F+Concurrencia+en+Go%3A+Goroutines%2C+Canales%2C+Mutex+y+WaitGroups+en+Acci%C3%B3n&lang=en&timestamp=1753201806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️ Concurrencia en Go: Goroutines, Canales, Mutex y WaitGroups en Acción")](https://www.youtube.com/watch?v=TjWuo5p3Oxw)
+
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
