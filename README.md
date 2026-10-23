@@ -66,7 +66,7 @@
 <img src="https://github.com/JimcostDev/python_programming_fundamentals/blob/master/imgs/curso-python.webp" width="100%" alt="Fundamentos de Python">
 </a>
 <br><br>
-<b>Fundamentos de Python</b>
+<b>Fundamentos de Programación</b>
 <br>
 <sub>Bases sólidas del lenguaje explicadas paso a paso</sub>
 <br><br>
